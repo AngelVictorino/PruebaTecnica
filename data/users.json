@@ -1,0 +1,9 @@
+{
+    "first_name": "Nombre",
+    "last_name": "Apellido",
+    "username": "username",
+    "email": "email@example.com",
+    "password": "password",
+    "confirm_password": "password",
+    "recaptcha": "recaptcha_response"
+}
